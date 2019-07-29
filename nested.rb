@@ -7,7 +7,7 @@ def hopper
           :languages => ["COBOL", "FORTRAN"]
         }}
   
-	programmer_hash
+	programmer_hash[grace_hopper]
 end
 
 def alan_kay_is_known_for
